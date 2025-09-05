@@ -82,5 +82,5 @@ stamp-h?
 build/
 
 #CLion
-cmake*
+cmake-*
 .idea
